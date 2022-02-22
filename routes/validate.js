@@ -14,7 +14,7 @@ function validate(app) {
         // Check if the blockchain is valid
 
         let isValid = global.blockchain.isChainValid();
-
+ 
 
 
         // Formulate a response message
